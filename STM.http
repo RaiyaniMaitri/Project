@@ -1,0 +1,6 @@
+@STM_HostAddress = http://localhost:5194
+
+GET {{STM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
